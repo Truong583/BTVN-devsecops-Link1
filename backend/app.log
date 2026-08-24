@@ -1,0 +1,5 @@
+INFO Application started 
+INFO Server running on port 8080 
+ERROR Database connection failed 
+INFO Retry connection
+ERROR Timeout while connecting to database 
